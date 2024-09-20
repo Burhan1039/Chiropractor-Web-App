@@ -1,5 +1,5 @@
 # Chiropractor-Web-App
-Waterland Chiropractor is a website dedicated to offering valuable insights into chiropractic care and its benefits for pain relief and maintaining overall spinal health.
+Waterland Chiropractor is a website dedicated to offering valuable insights into chiropractic care and its benefits for reducing aches and maintaining Complete spinal well-being.
 
 # Tech Stack
 Bubble.io
