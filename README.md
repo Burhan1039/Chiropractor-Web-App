@@ -1,4 +1,4 @@
-![screencapture-waterlandchiropractie-nl-locations-2024-09-20-14_08_36](https://github.com/user-attachments/assets/0fe82c56-15b9-45fb-ae74-512c2fb43264)# Chiropractor-Web-App
+# Chiropractor-Web-App
 Waterland Chiropractor is a website dedicated to offering valuable insights into chiropractic care and its benefits for pain relief and maintaining overall spinal health.
 
 # Tech Stack
