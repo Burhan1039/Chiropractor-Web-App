@@ -6,10 +6,11 @@ Bubble.io
 
 # Screenshots
 # 1
-![screencapture-waterlandchiropractie-nl-locations-2024-09-20-14_08_36](https://github.com/user-attachments/assets/3fddd230-dda2-48f6-94aa-65595dc6951b)
 
+![screencapture-waterlandchiropractie-nl-locations-chiropractie-rosmalen-2024-09-20-14_33_05](https://github.com/user-attachments/assets/1ff6e03a-337b-4b07-be9c-66a75fb032c8)
 # 2
-![screencapture-waterlandchiropractie-nl-contact-us-2024-09-20-14_10_23](https://github.com/user-attachments/assets/32a43adf-1728-4e6c-96b1-5c8a97c91fda)
+
+![screencapture-waterlandchiropractie-nl-locations-2024-09-20-14_29_16](https://github.com/user-attachments/assets/59154867-7b3f-411f-88dc-d746d9b19feb)
 
 # Live Demo
 https://waterlandchiropractie.nl/
